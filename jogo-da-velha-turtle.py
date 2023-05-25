@@ -168,14 +168,7 @@ else:
 luna.goto(lado/2, lado*2.2/3)
 font = ("Comic Sans", 12, "bold")
 
-luna.write (msg, align='center', font=font)
-    
-
-    
-    
-    
-
-    
+luna.write (msg, align='center', font=font)  
     
     
     
